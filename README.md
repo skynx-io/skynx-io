@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d8942cb0-783c-4fba-80ba-32cd67dfa548/deploy-status)](https://app.netlify.com/sites/mmesh/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5fd388eb-639d-4feb-a950-8c0e90a2af29/deploy-status)](https://app.netlify.com/sites/mmesh-dev/deploys)
 
 # mmesh.dev website
 mmesh.dev website
