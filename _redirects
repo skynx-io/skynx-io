@@ -4,27 +4,30 @@
 /pkg/* go-get=1 /golang/pkg.html 200
 /pkg/* https://github.com/mmesh/pkg 301
 
-/api/* https://github.com/mmesh/m-api 301
+/m-api/* https://github.com/mmesh/m-api 301
 
-/web/* https://github.com/mmesh/m-web 301
+/m-web/* https://github.com/mmesh/m-web 301
 
-/api-go/* go-get=1 /golang/m-api-go.html 200
-/api-go/* https://github.com/mmesh/m-api-go 301
+/m-api-go/* go-get=1 /golang/m-api-go.html 200
+/m-api-go/* https://github.com/mmesh/m-api-go 301
 
-/lib/* go-get=1 /golang/m-lib.html 200
-/lib/* https://github.com/mmesh/m-lib 301
+/m-lib/* go-get=1 /golang/m-lib.html 200
+/m-lib/* https://github.com/mmesh/m-lib 301
 
-/controller/* go-get=1 /golang/m-controller.html 200
-/controller/* https://github.com/mmesh/m-controller 301
+/m-controller/* go-get=1 /golang/m-controller.html 200
+/m-controller/* https://github.com/mmesh/m-controller 301
 
-/node/* go-get=1 /golang/m-node.html 200
-/node/* https://github.com/mmesh/m-node 301
+/m-node/* go-get=1 /golang/m-node.html 200
+/m-node/* https://github.com/mmesh/m-node 301
 
-/cli/* go-get=1 /golang/m-cli.html 200
-/cli/* https://github.com/mmesh/m-cli 301
+/m-cli/* go-get=1 /golang/m-cli.html 200
+/m-cli/* https://github.com/mmesh/m-cli 301
 
-/manager/* go-get=1 /golang/m-manager.html 200
-/manager/* https://github.com/mmesh/m-manager 301
+/s-manager/* go-get=1 /golang/s-manager.html 200
+/s-manager/* https://github.com/mmesh/s-manager 301
+
+/s-cli/* go-get=1 /golang/s-cli.html 200
+/s-cli/* https://github.com/mmesh/s-cli 301
 
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
