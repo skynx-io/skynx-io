@@ -11,9 +11,6 @@
 /s-api-go/* go-get=1 /golang/s-api-go.html 200
 /s-api-go/* https://github.com/mmesh/s-api-go 301
 
-/s-lib/* go-get=1 /golang/s-lib.html 200
-/s-lib/* https://github.com/mmesh/s-lib 301
-
 /m-api/* https://github.com/mmesh/m-api 301
 
 /m-api-go/* go-get=1 /golang/m-api-go.html 200
@@ -22,14 +19,8 @@
 /m-lib/* go-get=1 /golang/m-lib.html 200
 /m-lib/* https://github.com/mmesh/m-lib 301
 
-/s-manager/* go-get=1 /golang/s-manager.html 200
-/s-manager/* https://github.com/mmesh/s-manager 301
-
-/s-cli/* go-get=1 /golang/s-cli.html 200
-/s-cli/* https://github.com/mmesh/s-cli 301
-
-/m-controller/* go-get=1 /golang/m-controller.html 200
-/m-controller/* https://github.com/mmesh/m-controller 301
+/m-sys/* go-get=1 /golang/m-sys.html 200
+/m-sys/* https://github.com/mmesh/m-sys 301
 
 /m-node/* go-get=1 /golang/m-node.html 200
 /m-node/* https://github.com/mmesh/m-node 301
