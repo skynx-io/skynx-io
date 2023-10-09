@@ -33,4 +33,5 @@
 # Redirect default Netlify subdomain to primary domain
 https://mmesh-dev.netlify.app/* https://mmesh.io/:splat 301!
 
+# Redirect everything else to primary domain
 https://mmesh.dev/* https://mmesh.io/:splat 301!
