@@ -1,37 +1,31 @@
-/mmesh/* go-get=1 /golang/mmesh.html 200
-/mmesh/* https://github.com/mmesh/mmesh 301
+/skynx/* go-get=1 /golang/skynx.html 200
+/skynx/* https://github.com/skynx-io/skynx 301
 
-/pkg/* go-get=1 /golang/pkg.html 200
-/pkg/* https://github.com/mmesh/pkg 301
+/s-api/* https://github.com/skynx-io/s-api 301
 
-/m-web/* https://github.com/mmesh/m-web 301
+/s-api-swagger/* https://github.com/skynx-io/s-api-swagger 301
 
-/s-api/* https://github.com/mmesh/s-api 301
+/s-api-ts/* https://github.com/skynx-io/s-api-ts 301
 
 /s-api-go/* go-get=1 /golang/s-api-go.html 200
-/s-api-go/* https://github.com/mmesh/s-api-go 301
+/s-api-go/* https://github.com/skynx-io/s-api-go 301
 
-/m-api/* https://github.com/mmesh/m-api 301
+/s-lib/* go-get=1 /golang/s-lib.html 200
+/s-lib/* https://github.com/skynx-io/s-lib 301
 
-/m-api-go/* go-get=1 /golang/m-api-go.html 200
-/m-api-go/* https://github.com/mmesh/m-api-go 301
+/s-sys/* go-get=1 /golang/s-sys.html 200
+/s-sys/* https://github.com/skynx-io/s-sys 301
 
-/m-lib/* go-get=1 /golang/m-lib.html 200
-/m-lib/* https://github.com/mmesh/m-lib 301
+/s-node/* go-get=1 /golang/s-node.html 200
+/s-node/* https://github.com/skynx-io/s-node 301
 
-/m-sys/* go-get=1 /golang/m-sys.html 200
-/m-sys/* https://github.com/mmesh/m-sys 301
-
-/m-node/* go-get=1 /golang/m-node.html 200
-/m-node/* https://github.com/mmesh/m-node 301
-
-/m-cli/* go-get=1 /golang/m-cli.html 200
-/m-cli/* https://github.com/mmesh/m-cli 301
+/s-cli/* go-get=1 /golang/s-cli.html 200
+/s-cli/* https://github.com/skynx-io/s-cli 301
 
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect default Netlify subdomain to primary domain
-https://mmesh-dev.netlify.app/* https://mmesh.io/:splat 301!
+https://skynx-io.netlify.app/* https://skynx.com/:splat 301!
 
 # Redirect everything else to primary domain
-https://mmesh.dev/* https://mmesh.io/:splat 301!
+https://skynx.io/* https://skynx.com/:splat 301!
