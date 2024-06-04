@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5fd388eb-639d-4feb-a950-8c0e90a2af29/deploy-status)](https://app.netlify.com/sites/skynx-io/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d385bf4-4f1a-4c77-a4d6-b31b987cce29/deploy-status)](https://app.netlify.com/sites/skynx-io/deploys)
 
 # skynx.io site
 
